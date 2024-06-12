@@ -1,1 +1,3 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+halohub/halo:2.15 registry.cn-hangzhou.aliyuncs.com/synology_zyb/halo:2.15
+mysql:8.1.0 registry.cn-hangzhou.aliyuncs.com/synology_zyb/mysql:8.1.0
+ddsderek/easyimage:latest registry.cn-hangzhou.aliyuncs.com/synology_zyb/easyimage:latest
